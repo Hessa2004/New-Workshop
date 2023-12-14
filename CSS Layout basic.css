@@ -1,0 +1,141 @@
+ol{
+    list-style-type: lower-alpha;
+}
+#content dt{
+    font-weight: bold;
+}
+
+#content dd{
+    background-image:url('/Users/hessa/Downloads/right-20.png');
+    background-position: center left;
+    background-repeat: no-repeat;
+    margin-left: 24px;
+    padding-left: 24px;
+}
+
+ul.quotations{
+    list-style-type: none;
+      background-image:url('Photos/close-quote.PNG image') ;
+      background-position: bottom right;
+      background-repeat: no-repeat;
+      padding-bottom: 0px;
+      padding-right: 42px;
+}
+ul.quotationsp{
+    background-image:url('Photos/open-quote.PNG image');
+    background-position: top left;
+    background-repeat: no-repeat;
+    padding-left: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+blockquote{
+float: left;
+}
+
+#quotations li{
+    clear: left;
+}
+
+#navigation {
+    clear: left;
+}
+
+ul.quotations{
+     border: 2px solid #3532CB;
+    float: left;
+}
+
+ul.quotations {
+    border: 2px solid #3532CB;
+    float: left;
+    padding-left: 0px;
+}
+
+#ID content {
+   float: left;
+   width: 62%;
+   margin-left: 3%;
+   width: 62%;
+   margin-left: 3%;
+}
+
+#navigation {
+   float: right;
+   width: 26%;
+   margin-right: 3%;
+   background-image: url('images/topgrad1.png');
+   background-repeat: repeat-x;
+   border: #0000FF solid 1px;
+   border-radius: 10px;
+}
+
+#siteinfo {
+    clear: both;
+}
+
+body{
+    margin: 0%;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+   margin: 0px;
+   padding: 10%;
+   font-size: 1.3em;
+}
+
+h1{
+    background-color : #3532CB;
+    background-image : url('Photos/banner.png');
+    background-position : bottom left;
+    background-repeat : repeat-x;
+    color : #FFFFFF;
+    font-family : Georgia, serif;
+    font-size : 2em;
+    margin-bottom : 0.5em;
+    margin-top : 0.5em;
+    padding-bottom : 1.5em;
+    padding-left : 3%;
+    padding-top : 0.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color:  #DEEFFF;
+    padding-top: 0.5em;
+    margin: 0;
+    padding-left: 40px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    float : right;
+    margin-right : 3%;
+    width : 26%;
+    background-image: url('Photos/topgrad1.png');
+    background-repeat: repeat-x;
+    border: #0000FF solid 1px;
+    border-radius: 10px;
+}
+
+nav li {
+    padding-bottom: 0.5em;
+}
+
+#navigation h1 {
+    font-size: 1.3em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 40px;
+    margin: 0px;
+}
+
+article, aside, details, figcaption, figure, footer, header,hgroup, menu, nav, section {
+    display: block;
+}
+
+
+
+
